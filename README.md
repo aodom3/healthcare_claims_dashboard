@@ -47,7 +47,7 @@ This page is reserved for additional drill-down analysis and supporting visuals.
 One notable insight from the dashboard is that pending claims represented the highest billed total, which may suggest delays in reimbursement or claims processing.
 ## Dashboard Screenshots
 ### Claims Overview
-![Claims Overview](screenshots/claims-overview.png)
+![Claims Overview](screenshots/claims_overview.png)
 ## Business Value
 This dashboard helps stakeholders monitor claim activity, identify insurer trends, and track claim outcomes more efficiently. It supports faster review of financial and operational patterns within healthcare claims data.
 ## Author
